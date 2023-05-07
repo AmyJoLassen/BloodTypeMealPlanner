@@ -1,0 +1,7 @@
+1 NONE HB
+2 Butter N
+3 Feta N
+4 Goat Cheese N
+5 Mozzarella N
+6 Soy Cheese N
+7 Soy Milk N

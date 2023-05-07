@@ -1,0 +1,37 @@
+ARTICHOKE - domestic HB
+BEET LEAVES HB
+BROCCOLI - chicory HB
+KALE HB
+LETTUCE - romaine HB
+OKRA HB
+ONIONS - red, yellow, Spanish HB
+PEPPERS - red HB
+POTATOES - sweet HB
+PUMPKIN HB
+SEAWEED HB
+SPINACH HB
+SWISS CHARD HB
+TURNIPS HB
+Asparagus N
+Bamboo Shoots N
+Beets N
+Bok Choy N
+Carrots N
+Celery N
+Cucumber N
+Endive N
+Fennel N
+Lettuce - Bid, Boston, iceberg, mescium N
+Mushroom - abalone, enoki, portobello, tree oyster N
+Olives - green N
+Peppers - green, yellow, jalapeno N
+Radishes N
+Rutabaga N
+Snow Peas N
+Squash - all types N
+Tofu N
+Tomato N
+Water Chestnut N
+Watercress N
+Yams - all types N
+Zucchini N
